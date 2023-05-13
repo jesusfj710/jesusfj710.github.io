@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jesusfj710.github.io/blog/</loc>
-    <lastmod>2023-04-16T20:00:00+02:00</lastmod>
+    <lastmod>2023-05-13T16:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-an"
@@ -25,21 +25,21 @@
                 href="https://jesusfj710.github.io/blog/"
                 />
   </url><url>
-    <loc>https://jesusfj710.github.io/blog/001_first-post/</loc>
-    <lastmod>2023-04-16T20:00:00+02:00</lastmod>
+    <loc>https://jesusfj710.github.io/blog/003_contributing_to_foss/</loc>
+    <lastmod>2023-05-13T16:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="https://jesusfj710.github.io/es-es/blog/001_first-post/"
+                href="https://jesusfj710.github.io/es-es/blog/003_contributing_to_foss/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jesusfj710.github.io/blog/001_first-post/"
+                href="https://jesusfj710.github.io/blog/003_contributing_to_foss/"
                 />
   </url><url>
     <loc>https://jesusfj710.github.io/</loc>
-    <lastmod>2023-04-16T20:00:00+02:00</lastmod>
+    <lastmod>2023-05-13T16:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-an"
@@ -59,6 +59,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jesusfj710.github.io/"
+                />
+  </url><url>
+    <loc>https://jesusfj710.github.io/blog/001_first-post/</loc>
+    <lastmod>2023-04-16T20:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="https://jesusfj710.github.io/es-es/blog/001_first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusfj710.github.io/blog/001_first-post/"
                 />
   </url><url>
     <loc>https://jesusfj710.github.io/categories/</loc>

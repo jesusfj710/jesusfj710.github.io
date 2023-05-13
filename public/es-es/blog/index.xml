@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>💚🤍💚 -</copyright>
-    <lastBuildDate>Sat, 22 Apr 2023 16:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 16:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aportando al Software Libre</title>
+      <link>https://jesusfj710.github.io/es-es/blog/003_contributing_to_foss/</link>
+      <pubDate>Sat, 13 May 2023 16:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/es-es/blog/003_contributing_to_foss/</guid>
+      <description>¡Buenas tardes a todos!
+Hace poco compartí en mi perfil de LinkedIn que comenzaría a contribuir en proyectos FOSS? debido al impacto significativo que estas herramientas han tenido en mi trabajo.
+Al reflexionar sobre esto, me di cuenta de que incluso una pequeña contribución puede ayudar a un proyecto a financiar un dominio u otras necesidades. Específicamente en el campo de SDET? y el departamento de QA? en las empresas de tecnología, dependemos enormemente de estas herramientas, pero a menudo no contribuimos lo suficiente.</description>
+      <content:encoded><![CDATA[<p>¡Buenas tardes a todos!</p>
+<p>Hace poco compartí en mi perfil de LinkedIn que comenzaría a contribuir en proyectos <a href="https://es.wikipedia.org/wiki/Software_libre_y_de_c%C3%B3digo_abierto">
+
+<abbr title="Software libre y de código abierto">FOSS<sup>?</sup></abbr>
+</a> debido al impacto significativo que estas herramientas han tenido en mi trabajo.</p>
+<p>Al reflexionar sobre esto, me di cuenta de que incluso una pequeña contribución puede ayudar a un proyecto a financiar un dominio u otras necesidades. Específicamente en el campo de 
+
+<abbr title="Desarrollador de Software de Pruebas">SDET<sup>?</sup></abbr>
+ y el departamento de 
+
+<abbr title="Quality Assurance">QA<sup>?</sup></abbr>
+ en las empresas de tecnología, dependemos enormemente de estas herramientas, pero a menudo no contribuimos lo suficiente.</p>
+<p>Aunque entiendo que para proyectos personales que abandonamos después de unos días es posible que no consideremos contribuir de manera monetaria (aunque esa no es la única forma), dada la facilidad y el impacto que estas herramientas nos brindan, considero que es lo correcto.</p>
+<p>Estos pensamientos han estado rondando mi cabeza últimamente, y al hablar con mis compañeros de trabajo, siento que no estoy solo en esta opinión. El evento que me impulsó a dar este paso fue cuando, en el boletín de <a href="https://softwaretestingweekly.com">Software Testing Weekly</a> (que recomiendo encarecidamente), el autor mencionó que el último mantenedor original de Cucumber había sido despedido y ya no seguiría trabajando en ese proyecto (más información <a href="https://softwaretestingweekly.com/issues/166">aquí</a> y <a href="https://mattwynne.net/new-beginning">aquí</a>).</p>
+<p>Cucumber es una herramienta que utilizamos constantemente en nuestro equipo de QA, y sin ella, podríamos decir que muchos de los frameworks que usamos también se verían afectados.</p>
+<p>Por esta razón, decidí comenzar a contribuir en los proyectos <a href="https://cucumber.io">Cucumber</a> y <a href="https://webdriver.io">Webdriver.io</a>, ya que son proyectos amplios, altamente flexibles y se utilizan en numerosas empresas.</p>
+<p>Los invito a todos a reflexionar sobre este tema e intentar contribuir en la medida de lo posible a este tipo de proyectos, ya que al final todo se traduce en otros proyectos que, tarde o temprano, las empresas privadas utilizarán sin reconocimiento o sin devolver algo a la comunidad. 🥺</p>
+<p>¡Gracias y saludos!</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>¡Andaluces levantaos!</title>
       <link>https://jesusfj710.github.io/es-es/blog/002_adding-es-an/</link>
