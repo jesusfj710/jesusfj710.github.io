@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on 🤖</title>
+    <link>https://jesusfj710.github.io/es-es/blog/</link>
+    <description>Recent content in Blog on 🤖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>💚🤍💚 -</copyright>
+    <lastBuildDate>Sat, 22 Apr 2023 16:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Andaluces levantaos!</title>
+      <link>https://jesusfj710.github.io/es-es/blog/002_adding-es-an/</link>
+      <pubDate>Sat, 22 Apr 2023 16:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/es-es/blog/002_adding-es-an/</guid>
+      <description>Pues he añadido el andalúz como idioma a la web como detalle y hacer honor a mi tierra. Me he basado en el EPA, que podeis revisarlo y leer como funciona aquí.
+💚🤍💚 </description>
+      <content:encoded><![CDATA[<p>Pues he añadido el andalúz como idioma a la web como detalle y hacer honor a mi tierra. Me he basado en el EPA, que podeis revisarlo y leer como funciona <a href="https://es.wikipedia.org/wiki/%C3%8Attand%C3%A2_pal_andal%C3%BBh">aquí</a>.</p>
+<h2 id="heading">💚🤍💚</h2>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>¡Primer post!</title>
+      <link>https://jesusfj710.github.io/es-es/blog/001_first-post/</link>
+      <pubDate>Sun, 16 Apr 2023 20:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/es-es/blog/001_first-post/</guid>
+      <description>Este es el primer post de mi web.</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>⚠️ <strong>Actualización 24/04/2023</strong> ⚠️: Despues de revisar que el tema de charlola era realmente (sin haber atribuido correctamente) un fork de <code>hugo-PaperMod</code> he decidido cambiarlo y actualizar la licencia del repositorio.</p>
+</blockquote>
+<p>Despues de mucho tiempo, al final he decido hace una web donde pueda tener mi propio portfolio (en un futuro) asi como ir subiendo algun artículo sobre cosas que voy encontrando interesante.</p>
+<p>El objetivo no es otro que obligarme a documentar y a explicar como hago las cosas y así poder compartir todo.</p>
+<h2 id="construyendo-la-web">Construyendo la web</h2>
+<p>La web está construida con <a href="https://gohugo.io">Hugo</a> que usa <a href="http://go.dev">Go</a> <em>aka Golang</em> por debajo.</p>
+<p>Es súper cómodo de poder escribir las cosas directamente en <em>markdown</em>, subirlas a tu repositorio de Github, que un <em>workflow</em> de Github te haga el <em>build</em> del sitio y lo publique directamente en menos de un minuto.</p>
+<p>Podeis echar un vistazo al progreso del proyecto en el mismo <a href="https://github.com/jesusfj710/jesusfj710.github.io">repositio de Github</a>.</p>
+<p>Mil gracias a <a href="https://www.heycharlola.com/">charlola</a> por su plantilla e instruciones en el tema de Hugo.</p>
+<h3 id="características-de-la-web">Características de la web</h3>
+<ul>
+<li>Página de inicio con enlace a mi LinkedIn y Github</li>
+<li>Blog</li>
+<li>Página de contacto</li>
+</ul>
+<p>También estará disponible en tres idiomas:</p>
+<ul>
+<li>Español</li>
+<li>Inglés</li>
+<li>Coreano (aunque el blog solo será en inglés y español)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
