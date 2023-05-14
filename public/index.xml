@@ -15,15 +15,14 @@
       <guid>https://jesusfj710.github.io/blog/004_shortcode-svg/</guid>
       <description>Hello!
 I recently changed my workflow to work with the web, and to show the details, I wanted to insert a graphic. I was using Excalidraw, and the advantage is that you can export it as SVG? .
-Limitations encountered 🚧 When I tried to import the SVG directly into the content of the entry, I ran into some problems. Más que problemas, eran limitaciones como las siguientes:
-The need to define a background.</description>
+Limitations encountered 🚧 When I tried to import the SVG directly into the content of the entry, I ran into some problems. More than problems, they were limitations such as the following:</description>
       <content:encoded><![CDATA[<p>Hello!</p>
 <p>I recently changed my workflow to work with the web, and to show the details, I wanted to insert a graphic. I was using <a href="https://excalidraw.com">Excalidraw</a>, and the advantage is that you can export it as <a href="https://www.w3.org/Graphics/SVG/">
 
 <abbr title="Scalable vector graphics">SVG<sup>?</sup></abbr>
 </a>.</p>
 <h2 id="limitations-encountered-">Limitations encountered 🚧</h2>
-<p>When I tried to import the SVG directly into the content of the entry, I ran into some problems. Más que problemas, eran limitaciones como las siguientes:</p>
+<p>When I tried to import the SVG directly into the content of the entry, I ran into some problems. More than problems, they were limitations such as the following:</p>
 <ul>
 <li>The need to define a background.</li>
 <li>Limited to a single colour profile. You cannot have one for light mode and one for dark mode.</li>
