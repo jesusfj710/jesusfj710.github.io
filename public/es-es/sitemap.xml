@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jesusfj710.github.io/es-es/blog/</loc>
-    <lastmod>2023-05-14T18:00:00+02:00</lastmod>
+    <lastmod>2023-05-15T18:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,21 +25,21 @@
                 href="https://jesusfj710.github.io/es-es/blog/"
                 />
   </url><url>
-    <loc>https://jesusfj710.github.io/es-es/blog/004_shortcode-svg/</loc>
-    <lastmod>2023-05-14T18:00:00+02:00</lastmod>
+    <loc>https://jesusfj710.github.io/es-es/blog/005_new-workflow/</loc>
+    <lastmod>2023-05-15T18:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jesusfj710.github.io/blog/004_shortcode-svg/"
+                href="https://jesusfj710.github.io/blog/005_new-workflow/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="https://jesusfj710.github.io/es-es/blog/004_shortcode-svg/"
+                href="https://jesusfj710.github.io/es-es/blog/005_new-workflow/"
                 />
   </url><url>
     <loc>https://jesusfj710.github.io/es-es/</loc>
-    <lastmod>2023-05-14T18:00:00+02:00</lastmod>
+    <lastmod>2023-05-15T18:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,6 +59,19 @@
                 rel="alternate"
                 hreflang="es-es"
                 href="https://jesusfj710.github.io/es-es/"
+                />
+  </url><url>
+    <loc>https://jesusfj710.github.io/es-es/blog/004_shortcode-svg/</loc>
+    <lastmod>2023-05-14T18:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusfj710.github.io/blog/004_shortcode-svg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="https://jesusfj710.github.io/es-es/blog/004_shortcode-svg/"
                 />
   </url><url>
     <loc>https://jesusfj710.github.io/es-es/blog/003_contributing_to_foss/</loc>
