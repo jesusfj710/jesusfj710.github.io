@@ -7,16 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>💚🤍💚 -</copyright><atom:link href="https://jesusfj710.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>문의하기</title>
-      <link>https://jesusfj710.github.io/ko/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jesusfj710.github.io/ko/contact/</guid>
-      <description>짧은 메시지나 질문이 있는 경우, LinkedIn 을 통해 메시지를 남겨주세요 😊.</description>
-      <content:encoded><![CDATA[<p>짧은 메시지나 질문이 있는 경우, <a href="https://www.linkedin.com/in/jesusfj710/">LinkedIn</a> 을 통해 메시지를 남겨주세요 😊.</p>
-]]></content:encoded>
-    </item>
-    
   </channel>
 </rss>

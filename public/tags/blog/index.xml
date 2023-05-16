@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on 🤖</title>
+    <link>https://jesusfj710.github.io/tags/blog/</link>
+    <description>Recent content in blog on 🤖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>💚🤍💚 -</copyright>
+    <lastBuildDate>Sun, 16 Apr 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post!</title>
+      <link>https://jesusfj710.github.io/blog/001_first-post/</link>
+      <pubDate>Sun, 16 Apr 2023 20:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/blog/001_first-post/</guid>
+      <description>This is the first post on my website.</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>⚠️ <strong>Update 04/24/2023</strong> ⚠️: After checking that the charlola theme was actually (without having correctly attributed it) a fork of <code>hugo-PaperMod</code> I decided to change it and update the repository license.</p>
+</blockquote>
+<p>After a long time, I have finally decided to make a website where I can have my own portfolio (in the future) as well as uploading some articles about things I find interesting.</p>
+<p>The aim is no other than forcing myself to document and explain how I do things and thus be able to share everything.</p>
+<h2 id="building-the-web">Building the web</h2>
+<p>The website is built with <a href="https://gohugo.io">Hugo</a> which uses <a href="http://go.dev">Go</a> <em>aka Golang</em> underneath.</p>
+<p>It&rsquo;s super convenient to be able to write things directly in <em>markdown</em>, upload them to your Github repository, have a Github <em>workflow</em> do the <em>build</em> of the site and publish it directly in less than a minute.</p>
+<p>You can take a look at the progress of the project in the <a href="https://github.com/jesusfj710/jesusfj710.github.io">github repository</a>.</p>
+<p>A big thanks to <a href="https://www.heycharlola.com/">charlola</a> for his template and instructions on the Hugo theme.</p>
+<h3 id="features-of-the-website">Features of the website</h3>
+<ul>
+<li>Home page with link to my LinkedIn and Github</li>
+<li>Blog</li>
+<li>Contact page</li>
+</ul>
+<p>It will also be available in three languages:</p>
+<ul>
+<li>Spanish</li>
+<li>English</li>
+<li>Korean (although the blog will only be in English and Spanish)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

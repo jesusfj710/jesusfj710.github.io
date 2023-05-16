@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Webdriver.io on 🤖</title>
+    <link>https://jesusfj710.github.io/tags/webdriver.io/</link>
+    <description>Recent content in Webdriver.io on 🤖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>💚🤍💚 -</copyright>
+    <lastBuildDate>Sat, 13 May 2023 16:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/tags/webdriver.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contributing to FOSS</title>
+      <link>https://jesusfj710.github.io/blog/003_contributing_to_foss/</link>
+      <pubDate>Sat, 13 May 2023 16:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/blog/003_contributing_to_foss/</guid>
+      <description>Good afternoon, everyone!
+The other day, I shared on my LinkedIn that I was going to start contributing to FOSS? projects because of the high impact these tools have on my work.
+The truth is, even a small contribution can help a project cover the cost of a domain or other expenses.
+In the context of SDET? and the QA? department in IT companies, I believe we rely heavily on these tools, but we usually don&amp;rsquo;t give much back.</description>
+      <content:encoded><![CDATA[<p>Good afternoon, everyone!</p>
+<p>The other day, I shared on my LinkedIn that I was going to start contributing to <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">
+
+<abbr title="Free and Open Source Software">FOSS<sup>?</sup></abbr>
+</a> projects because of the high impact these tools have on my work.</p>
+<p>The truth is, even a small contribution can help a project cover the cost of a domain or other expenses.</p>
+<p>In the context of 
+
+<abbr title="Software Development Engineer in Test">SDET<sup>?</sup></abbr>
+ and the 
+
+<abbr title="Quality Assurance">QA<sup>?</sup></abbr>
+ department in IT companies, I believe we rely heavily on these tools, but we usually don&rsquo;t give much back. I understand that for personal projects that we abandon after a few days, we may not consider contributing monetarily (although that&rsquo;s not the only way), but considering the impact and ease they provide us, I think it&rsquo;s the right thing to do.</p>
+<p>Lately, all of this has been on my mind, and talking to colleagues at work, I feel that I&rsquo;m not alone in this opinion. The triggering event that made me take the step forward was when the author of <a href="https://softwaretestingweekly.com">Software Testing Weekly</a> newsletter (which I highly recommend) mentioned a couple of weeks ago that the last original maintainer of Cucumber had been laid off and would no longer work on that project apparently (more info <a href="https://softwaretestingweekly.com/issues/166">here</a> and <a href="https://mattwynne.net/new-beginning">here</a>).</p>
+<p>Cucumber is a tool we use constantly every day in the QA team, and without it, we could say that many of the frameworks we use would also be affected.</p>
+<p>Therefore, I decided to start contributing to Cucumber and Webdriver.io because they are extensive projects, highly flexible, and used by many companies.</p>
+<p>I invite all of you to reflect on this and try, as much as possible, to contribute to these types of projects because in the end, everything has an impact on other projects that private companies will ultimately use without giving credit or returning some of the work to the community. 🥺</p>
+<p>Thank you and take care!</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

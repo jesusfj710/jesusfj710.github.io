@@ -15,6 +15,19 @@
                 href="https://jesusfj710.github.io/es-an/blog/002_adding-es-an/"
                 />
   </url><url>
+    <loc>https://jesusfj710.github.io/es-an/tags/andal%C3%BBh/</loc>
+    <lastmod>2023-04-22T16:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="https://jesusfj710.github.io/es-es/tags/andal%C3%BBh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-an"
+                href="https://jesusfj710.github.io/es-an/tags/andal%C3%BBh/"
+                />
+  </url><url>
     <loc>https://jesusfj710.github.io/es-an/blog/</loc>
     <lastmod>2023-04-22T16:00:00+02:00</lastmod>
     <xhtml:link
@@ -36,6 +49,65 @@
                 rel="alternate"
                 hreflang="es-an"
                 href="https://jesusfj710.github.io/es-an/blog/"
+                />
+  </url><url>
+    <loc>https://jesusfj710.github.io/es-an/tags/hugo/</loc>
+    <lastmod>2023-04-22T16:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusfj710.github.io/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="https://jesusfj710.github.io/es-es/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-an"
+                href="https://jesusfj710.github.io/es-an/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://jesusfj710.github.io/es-an/tags/</loc>
+    <lastmod>2023-04-22T16:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusfj710.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="https://jesusfj710.github.io/es-es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jesusfj710.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-an"
+                href="https://jesusfj710.github.io/es-an/tags/"
+                />
+  </url><url>
+    <loc>https://jesusfj710.github.io/es-an/tags/web/</loc>
+    <lastmod>2023-04-22T16:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusfj710.github.io/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="https://jesusfj710.github.io/es-es/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-an"
+                href="https://jesusfj710.github.io/es-an/tags/web/"
                 />
   </url><url>
     <loc>https://jesusfj710.github.io/es-an/</loc>
@@ -78,28 +150,6 @@
                 href="https://jesusfj710.github.io/es-an/search/"
                 />
   </url><url>
-    <loc>https://jesusfj710.github.io/es-an/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusfj710.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="https://jesusfj710.github.io/es-es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jesusfj710.github.io/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-an"
-                href="https://jesusfj710.github.io/es-an/categories/"
-                />
-  </url><url>
     <loc>https://jesusfj710.github.io/es-an/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -120,28 +170,6 @@
                 rel="alternate"
                 hreflang="es-an"
                 href="https://jesusfj710.github.io/es-an/contact/"
-                />
-  </url><url>
-    <loc>https://jesusfj710.github.io/es-an/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusfj710.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="https://jesusfj710.github.io/es-es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jesusfj710.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-an"
-                href="https://jesusfj710.github.io/es-an/tags/"
                 />
   </url>
 </urlset>
