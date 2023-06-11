@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 15 May 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transforming the structure of the web repos</title>
-      <link>https://jesusfj710.github.io/blog/005_new-workflow/</link>
+      <link>https://jesusfj710.github.io/blog/transforming-the-structure-of-the-web-repos/</link>
       <pubDate>Mon, 15 May 2023 18:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/blog/005_new-workflow/</guid>
+      <guid>https://jesusfj710.github.io/blog/transforming-the-structure-of-the-web-repos/</guid>
       <description>Hello everyone!
 The other day I was busy going through some information about Hugo, Github Actions, etc and decided to change the way the website works because it seemed like the right thing to do.
 The before When I first published the website, everything was contained in a single repository.

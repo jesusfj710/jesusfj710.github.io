@@ -10,10 +10,10 @@
     <lastBuildDate>Mon, 15 May 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transformando la estructura de la web</title>
-      <link>https://jesusfj710.github.io/es-es/blog/005_new-workflow/</link>
+      <link>https://jesusfj710.github.io/es-es/blog/transformando-la-structura-de-la-web/</link>
       <pubDate>Mon, 15 May 2023 18:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/es-es/blog/005_new-workflow/</guid>
+      <guid>https://jesusfj710.github.io/es-es/blog/transformando-la-structura-de-la-web/</guid>
       <description>¡Hola a todos!
 El otro día me entretuve en revisar información sobre Hugo, Github Actions, etc y decidí cambiar la forma en la que funciona la web porque me parecía que era lo correcto.
 El antes Cuando publiqué por primera vez la web, todo estaba contenido en un solo repositorio.
@@ -63,10 +63,10 @@ Arrancaba el servidor de Hugo en mi local, ejecutando hugo serve.</description>
     
     <item>
       <title>Creando un shortcode para insertar SVG en Hugo</title>
-      <link>https://jesusfj710.github.io/es-es/blog/004_shortcode-svg/</link>
+      <link>https://jesusfj710.github.io/es-es/blog/creando-un-shortcode-para-insertar-svg-en-hugo/</link>
       <pubDate>Sun, 14 May 2023 18:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/es-es/blog/004_shortcode-svg/</guid>
+      <guid>https://jesusfj710.github.io/es-es/blog/creando-un-shortcode-para-insertar-svg-en-hugo/</guid>
       <description>¡Hola!
 Recientemente cambié mi flujo de trabajo para trabajar con la web, y para mostrar los detalles, quería insertar un gráfico. Estaba utilizando Excalidraw, y la ventaja es que puedes exportarlo como SVG? .
 Limitaciones encontradas 🚧 Al intentar importar el SVG directamente en el contenido de la entrada, me encontré con ciertos problemas. Más que problemas, eran limitaciones como las siguientes:
@@ -142,10 +142,10 @@ La necesidad de definir un fondo. Limitado a un único perfil de color.</descrip
     
     <item>
       <title>¡Andaluces levantaos!</title>
-      <link>https://jesusfj710.github.io/es-es/blog/002_adding-es-an/</link>
+      <link>https://jesusfj710.github.io/es-es/blog/andaluces-levantaos/</link>
       <pubDate>Sat, 22 Apr 2023 16:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/es-es/blog/002_adding-es-an/</guid>
+      <guid>https://jesusfj710.github.io/es-es/blog/andaluces-levantaos/</guid>
       <description>Pues he añadido el andalúz como idioma a la web como detalle y hacer honor a mi tierra. Me he basado en el EPA, que podeis revisarlo y leer como funciona aquí.
 💚🤍💚 </description>
       <content:encoded><![CDATA[<p>Pues he añadido el andalúz como idioma a la web como detalle y hacer honor a mi tierra. Me he basado en el EPA, que podeis revisarlo y leer como funciona <a href="https://es.wikipedia.org/wiki/%C3%8Attand%C3%A2_pal_andal%C3%BBh">aquí</a>.</p>
@@ -155,10 +155,10 @@ La necesidad de definir un fondo. Limitado a un único perfil de color.</descrip
     
     <item>
       <title>¡Primer post!</title>
-      <link>https://jesusfj710.github.io/es-es/blog/001_first-post/</link>
+      <link>https://jesusfj710.github.io/es-es/blog/primer-post/</link>
       <pubDate>Sun, 16 Apr 2023 20:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/es-es/blog/001_first-post/</guid>
+      <guid>https://jesusfj710.github.io/es-es/blog/primer-post/</guid>
       <description>Este es el primer post de mi web.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>⚠️ <strong>Actualización 24/04/2023</strong> ⚠️: Despues de revisar que el tema de charlola era realmente (sin haber atribuido correctamente) un fork de <code>hugo-PaperMod</code> he decidido cambiarlo y actualizar la licencia del repositorio.</p>

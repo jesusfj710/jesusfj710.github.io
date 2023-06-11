@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 16 Apr 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post!</title>
-      <link>https://jesusfj710.github.io/blog/001_first-post/</link>
+      <link>https://jesusfj710.github.io/blog/first-post/</link>
       <pubDate>Sun, 16 Apr 2023 20:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/blog/001_first-post/</guid>
+      <guid>https://jesusfj710.github.io/blog/first-post/</guid>
       <description>This is the first post on my website.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>⚠️ <strong>Update 04/24/2023</strong> ⚠️: After checking that the charlola theme was actually (without having correctly attributed it) a fork of <code>hugo-PaperMod</code> I decided to change it and update the repository license.</p>

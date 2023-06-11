@@ -10,10 +10,10 @@
     <lastBuildDate>Mon, 15 May 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transformando la estructura de la web</title>
-      <link>https://jesusfj710.github.io/es-es/blog/005_new-workflow/</link>
+      <link>https://jesusfj710.github.io/es-es/blog/transformando-la-structura-de-la-web/</link>
       <pubDate>Mon, 15 May 2023 18:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/es-es/blog/005_new-workflow/</guid>
+      <guid>https://jesusfj710.github.io/es-es/blog/transformando-la-structura-de-la-web/</guid>
       <description>¡Hola a todos!
 El otro día me entretuve en revisar información sobre Hugo, Github Actions, etc y decidí cambiar la forma en la que funciona la web porque me parecía que era lo correcto.
 El antes Cuando publiqué por primera vez la web, todo estaba contenido en un solo repositorio.

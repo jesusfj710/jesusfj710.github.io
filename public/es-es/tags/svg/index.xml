@@ -10,10 +10,10 @@
     <lastBuildDate>Sun, 14 May 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/tags/svg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creando un shortcode para insertar SVG en Hugo</title>
-      <link>https://jesusfj710.github.io/es-es/blog/004_shortcode-svg/</link>
+      <link>https://jesusfj710.github.io/es-es/blog/creando-un-shortcode-para-insertar-svg-en-hugo/</link>
       <pubDate>Sun, 14 May 2023 18:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/es-es/blog/004_shortcode-svg/</guid>
+      <guid>https://jesusfj710.github.io/es-es/blog/creando-un-shortcode-para-insertar-svg-en-hugo/</guid>
       <description>¡Hola!
 Recientemente cambié mi flujo de trabajo para trabajar con la web, y para mostrar los detalles, quería insertar un gráfico. Estaba utilizando Excalidraw, y la ventaja es que puedes exportarlo como SVG? .
 Limitaciones encontradas 🚧 Al intentar importar el SVG directamente en el contenido de la entrada, me encontré con ciertos problemas. Más que problemas, eran limitaciones como las siguientes:

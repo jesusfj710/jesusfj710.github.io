@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 15 May 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transforming the structure of the web repos</title>
-      <link>https://jesusfj710.github.io/blog/005_new-workflow/</link>
+      <link>https://jesusfj710.github.io/blog/transforming-the-structure-of-the-web-repos/</link>
       <pubDate>Mon, 15 May 2023 18:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/blog/005_new-workflow/</guid>
+      <guid>https://jesusfj710.github.io/blog/transforming-the-structure-of-the-web-repos/</guid>
       <description>Hello everyone!
 The other day I was busy going through some information about Hugo, Github Actions, etc and decided to change the way the website works because it seemed like the right thing to do.
 The before When I first published the website, everything was contained in a single repository.
@@ -65,10 +65,10 @@ I started the Hugo server on my local, running hugo serve.</description>
     
     <item>
       <title>First post!</title>
-      <link>https://jesusfj710.github.io/blog/001_first-post/</link>
+      <link>https://jesusfj710.github.io/blog/first-post/</link>
       <pubDate>Sun, 16 Apr 2023 20:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/blog/001_first-post/</guid>
+      <guid>https://jesusfj710.github.io/blog/first-post/</guid>
       <description>This is the first post on my website.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>⚠️ <strong>Update 04/24/2023</strong> ⚠️: After checking that the charlola theme was actually (without having correctly attributed it) a fork of <code>hugo-PaperMod</code> I decided to change it and update the repository license.</p>

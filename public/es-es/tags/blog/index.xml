@@ -10,10 +10,10 @@
     <lastBuildDate>Sun, 16 Apr 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¡Primer post!</title>
-      <link>https://jesusfj710.github.io/es-es/blog/001_first-post/</link>
+      <link>https://jesusfj710.github.io/es-es/blog/primer-post/</link>
       <pubDate>Sun, 16 Apr 2023 20:00:00 +0200</pubDate>
       
-      <guid>https://jesusfj710.github.io/es-es/blog/001_first-post/</guid>
+      <guid>https://jesusfj710.github.io/es-es/blog/primer-post/</guid>
       <description>Este es el primer post de mi web.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>⚠️ <strong>Actualización 24/04/2023</strong> ⚠️: Despues de revisar que el tema de charlola era realmente (sin haber atribuido correctamente) un fork de <code>hugo-PaperMod</code> he decidido cambiarlo y actualizar la licencia del repositorio.</p>
