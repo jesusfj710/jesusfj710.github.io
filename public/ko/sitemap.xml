@@ -25,6 +25,28 @@
                 href="https://jesusfj710.github.io/ko/blog/"
                 />
   </url><url>
+    <loc>https://jesusfj710.github.io/ko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusfj710.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-an"
+                href="https://jesusfj710.github.io/es-an/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="https://jesusfj710.github.io/es-es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jesusfj710.github.io/ko/"
+                />
+  </url><url>
     <loc>https://jesusfj710.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -67,28 +89,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://jesusfj710.github.io/ko/contact/"
-                />
-  </url><url>
-    <loc>https://jesusfj710.github.io/ko/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusfj710.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-an"
-                href="https://jesusfj710.github.io/es-an/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="https://jesusfj710.github.io/es-es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jesusfj710.github.io/ko/"
                 />
   </url>
 </urlset>
