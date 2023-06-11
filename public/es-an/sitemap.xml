@@ -149,27 +149,5 @@
                 hreflang="es-an"
                 href="https://jesusfj710.github.io/es-an/search/"
                 />
-  </url><url>
-    <loc>https://jesusfj710.github.io/es-an/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusfj710.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="https://jesusfj710.github.io/es-es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jesusfj710.github.io/ko/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-an"
-                href="https://jesusfj710.github.io/es-an/contact/"
-                />
   </url>
 </urlset>
