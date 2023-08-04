@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>java on Jesús Fernández Jiménez - SDET y entusiasta de la tecnología</title>
+    <link>https://jesusfj710.github.io/es-es/tags/java/</link>
+    <description>Recent content in java on Jesús Fernández Jiménez - SDET y entusiasta de la tecnología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>💚🤍💚 -</copyright>
+    <lastBuildDate>Sun, 09 Jul 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Selenium Cucumber Junit framework para pruebas web sencillas</title>
+      <link>https://jesusfj710.github.io/es-es/projects/java-selenium-cucumber-junit/</link>
+      <pubDate>Sun, 09 Jul 2023 19:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/es-es/projects/java-selenium-cucumber-junit/</guid>
+      <description>En este proyecto se ha desarrollado una prueba de concepto de un framework de testing para web con las siguientes tecnologías:
+Java Selenium Cucumber Junit También se ha utilizado Maven para la gestión de las librerías.
+Hay un archivo feature que contiene los escenarios de prueba y varios archivos de steps en función de la funcionalidad que se quiera probar.
+Puedes revisar el README.md del proyecto para ver cómo ejecutarlo en tu ordenador, aunque es probable que los localizadores de los elementos de la interfaz de Amazon hayan cambiado desde que se escribió este post.</description>
+      <content:encoded><![CDATA[<p>En <a href="https://github.com/jesusfj710/java-selenium-cucumber-junit/">este proyecto</a> se ha desarrollado una prueba de concepto de un framework de testing para web con las siguientes tecnologías:</p>
+<ul>
+<li>Java</li>
+<li>Selenium</li>
+<li>Cucumber</li>
+<li>Junit</li>
+</ul>
+<p>También se ha utilizado Maven para la gestión de las librerías.</p>
+<p>Hay un archivo feature que contiene los escenarios de prueba y varios archivos de steps en función de la funcionalidad que se quiera probar.</p>
+<p>Puedes revisar el <code>README.md</code> del proyecto para ver cómo ejecutarlo en tu ordenador, aunque es probable que los localizadores de los elementos de la interfaz de Amazon hayan cambiado desde que se escribió este post.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

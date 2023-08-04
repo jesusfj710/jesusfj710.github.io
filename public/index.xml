@@ -6,7 +6,30 @@
     <description>Recent content on Jesús Fernández Jiménez - SDET and Tech Enthusiast</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>💚🤍💚 -</copyright>
-    <lastBuildDate>Mon, 15 May 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Selenium Cucumber Junit framework for simple web testing</title>
+      <link>https://jesusfj710.github.io/projects/java-selenium-cucumber-junit/</link>
+      <pubDate>Sun, 09 Jul 2023 19:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/projects/java-selenium-cucumber-junit/</guid>
+      <description>In this project a proof of concept of a web testing framework has been developed with the following technologies:
+Java Selenium Cucumber Junit Maven has also been used for the management of the libraries.
+There is a feature file containing the test scenarios and several step files depending on the functionality you want to test.
+You can check the README.md of the project to see how to run it on your computer, although it is likely that the locators of the Amazon interface elements have changed since this post was written.</description>
+      <content:encoded><![CDATA[<p>In <a href="https://github.com/jesusfj710/java-selenium-cucumber-junit/">this project</a> a proof of concept of a web testing framework has been developed with the following technologies:</p>
+<ul>
+<li>Java</li>
+<li>Selenium</li>
+<li>Cucumber</li>
+<li>Junit</li>
+</ul>
+<p>Maven has also been used for the management of the libraries.</p>
+<p>There is a feature file containing the test scenarios and several step files depending on the functionality you want to test.</p>
+<p>You can check the <code>README.md</code> of the project to see how to run it on your computer, although it is likely that the locators of the Amazon interface elements have changed since this post was written.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Transforming the structure of the web repos</title>
       <link>https://jesusfj710.github.io/blog/transforming-the-structure-of-the-web-repos/</link>
