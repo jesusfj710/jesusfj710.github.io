@@ -37,13 +37,12 @@ Puedes revisar el README.md del proyecto para ver cómo ejecutarlo en tu ordenad
       <pubDate>Mon, 15 May 2023 18:00:00 +0200</pubDate>
       
       <guid>https://jesusfj710.github.io/es-es/blog/transformando-la-structura-de-la-web/</guid>
-      <description>2023/08/05 Actualización: Codeball.ai ya no está disponible. He eliminado las acciones relacionadas con él, pero el post permanecerá tal cual para fines de archivo.
-¡Hola a todos!
+      <description>¡Hola a todos!
 El otro día me entretuve en revisar información sobre Hugo, Github Actions, etc y decidí cambiar la forma en la que funciona la web porque me parecía que era lo correcto.
-El antes Cuando publiqué por primera vez la web, todo estaba contenido en un solo repositorio.</description>
-      <content:encoded><![CDATA[<p><strong>2023/08/05 Actualización</strong>: Codeball.ai ya no está disponible. He eliminado las acciones relacionadas con él, pero el post permanecerá tal cual para fines de archivo.</p>
-<hr>
-<p>¡Hola a todos!</p>
+El antes Cuando publiqué por primera vez la web, todo estaba contenido en un solo repositorio.
+En este repositorio tenia todo lo relativo a Hugo, y el flujo de trabajo era algo así:
+Arrancaba el servidor de Hugo en mi local, ejecutando hugo serve.</description>
+      <content:encoded><![CDATA[<p>¡Hola a todos!</p>
 <p>El otro día me entretuve en revisar información sobre Hugo, Github Actions, etc y decidí cambiar la forma en la que funciona la web porque me parecía que era lo correcto.</p>
 <h2 id="el-antes">El antes</h2>
 <p>Cuando publiqué por primera vez la web, todo estaba contenido en un solo repositorio.</p>

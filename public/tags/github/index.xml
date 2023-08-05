@@ -13,13 +13,12 @@
       <pubDate>Mon, 15 May 2023 18:00:00 +0200</pubDate>
       
       <guid>https://jesusfj710.github.io/blog/transforming-the-structure-of-the-web-repos/</guid>
-      <description>2023/08/05 Update: Codeball.ai is no longer available. I have remove the actions related to it but the post will remain as it is for archival purposes.
-Hello everyone!
+      <description>Hello everyone!
 The other day I was busy going through some information about Hugo, Github Actions, etc and decided to change the way the website works because it seemed like the right thing to do.
-The before When I first published the website, everything was contained in a single repository.</description>
-      <content:encoded><![CDATA[<p><strong>2023/08/05 Update</strong>: Codeball.ai is no longer available. I have remove the actions related to it but the post will remain as it is for archival purposes.</p>
-<hr>
-<p>Hello everyone!</p>
+The before When I first published the website, everything was contained in a single repository.
+In this repository I had everything related to Hugo, and the workflow went something like this:
+I started the Hugo server on my local, running hugo serve.</description>
+      <content:encoded><![CDATA[<p>Hello everyone!</p>
 <p>The other day I was busy going through some information about Hugo, Github Actions, etc and decided to change the way the website works because it seemed like the right thing to do.</p>
 <h2 id="the-before">The before</h2>
 <p>When I first published the website, everything was contained in a single repository.</p>
