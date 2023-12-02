@@ -9,6 +9,24 @@
     <copyright>💚🤍💚 -</copyright>
     <lastBuildDate>Sat, 02 Dec 2023 13:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/tags/localstorage/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Aplicación To-Do sin servidor con Nuxt, LocalForage y Pinia</title>
+      <link>https://jesusfj710.github.io/es-es/projects/serverless-nuxt-to-do-app/</link>
+      <pubDate>Sat, 02 Dec 2023 13:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/es-es/projects/serverless-nuxt-to-do-app/</guid>
+      <description>En este proyecto se ha desarrollado una prueba de concepto de una aplicación de tareas básicas con las siguientes tecnologías:
+Nuxt3 Pinia LocalForage También se ha utilizado Bun para la gestión de las librerías y la ejecución del entorno de desarrollo.</description>
+      <content:encoded><![CDATA[<p>En <a href="https://jesusfj710.github.io/to-do-app">este proyecto</a> se ha desarrollado una prueba de concepto de una aplicación de tareas básicas con las siguientes tecnologías:</p>
+<ul>
+<li>Nuxt3</li>
+<li>Pinia</li>
+<li>LocalForage</li>
+</ul>
+<p>También se ha utilizado Bun para la gestión de las librerías y la ejecución del entorno de desarrollo.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Aplicación web de tareas sin servidor con Nuxt3</title>
       <link>https://jesusfj710.github.io/es-es/blog/aplicacion-web-tareas-sin-servidor-nuxt3/</link>
       <pubDate>Sat, 02 Dec 2023 13:00:00 +0200</pubDate>
@@ -30,7 +48,7 @@
 <p>Después de darle muchas vueltas, quería hacer el desarrollo de una aplicación desde el principio hasta el final. Tenía unas necesidades muy especificas que me ha costado encontrar como solventarlas. Entre ellas, la más importante es que la aplicación pueda funcionar completamente sin servidor, es decir, todo el código debía ser entregado por una pagina web que pueda desplegar en un servidor de contenido estático.</p>
 <p>Este requisito hizo que aterrizara eligiendo <a href="https://nuxt.com/docs/getting-started/introduction">Nuxt3</a>. Te permite elegir entre multiples posibilidades para renderizar tu código, y para mi, poder elegir <code>client-side-rendering</code> sin dolor ninguno es genial. La idea es que desarrolle lo que desarrolle, pueda generar HTML, CSS y JS que todo sea puesto en una web.</p>
 <p>Con todo, he desarrollado una aplicación super simple para gestionar tareas. La funcionalidad de la aplicación es muy básica y solo es como concepto, aunque me he divertido (y sufrido) peleándome con TailwindCSS y el diseño en general.</p>
-<p>El repositorio lo puedes encontrar <a href="https://github.com/jesusfj710/nuxt-to-do-app">aquí</a>.</p>
+<p>El repositorio lo puedes encontrar <a href="https://github.com/jesusfj710/nuxt-to-do-app">aquí</a> y la aplicación <a href="https://jesusfj710.github.io/to-do-app">aquí</a>.</p>
 <h2 id="stack-tecnológico">Stack tecnológico</h2>
 <p>No solo he tenido que elegir <a href="https://nuxt.com/docs/getting-started/introduction">Nuxt3</a>, si no que también he escogido otras tecnologías para complementar su uso. Por ejemplo, para gestionar los estados de <a href="https://nuxt.com/docs/getting-started/introduction">Nuxt3</a> he elegido <a href="https://pinia.vuejs.org">Pinia</a>, una librería que hace muy fácil esto para principiantes.</p>
 <p>Para persistir los datos y gestionarlos, he elegido usar <a href="https://github.com/localForage/localForage">LocalForage</a>, que te permite elegir diferentes &ldquo;back-ends&rdquo; como almacenamiento. Más detalles adelante.</p>

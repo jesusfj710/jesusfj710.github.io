@@ -15,7 +15,7 @@
       <guid>https://jesusfj710.github.io/projects/serverless-nuxt-to-do-app/</guid>
       <description>In this project a proof of concept of a basic task application has been developed with the following technologies:
 Nuxt3 Pinia LocalForage Bun has also been used for the management of the libraries and the execution of the development environment.</description>
-      <content:encoded><![CDATA[<p>In <a href="https://github.com/jesusfj710/todo-app">this project</a> a proof of concept of a basic task application has been developed with the following technologies:</p>
+      <content:encoded><![CDATA[<p>In <a href="https://jesusfj710.github.io/to-do-app">this project</a> a proof of concept of a basic task application has been developed with the following technologies:</p>
 <ul>
 <li>Nuxt3</li>
 <li>Pinia</li>

@@ -14,9 +14,9 @@
       <pubDate>Sat, 02 Dec 2023 13:00:00 +0200</pubDate>
       
       <guid>https://jesusfj710.github.io/es-es/projects/serverless-nuxt-to-do-app/</guid>
-      <description>En este proyecto se ha desarrollado una prueba de concepto de una aplicación de tareas básicas con las siguientes tecnologias:
+      <description>En este proyecto se ha desarrollado una prueba de concepto de una aplicación de tareas básicas con las siguientes tecnologías:
 Nuxt3 Pinia LocalForage También se ha utilizado Bun para la gestión de las librerías y la ejecución del entorno de desarrollo.</description>
-      <content:encoded><![CDATA[<p>En <a href="https://github.com/jesusfj710/todo-app">este proyecto</a> se ha desarrollado una prueba de concepto de una aplicación de tareas básicas con las siguientes tecnologias:</p>
+      <content:encoded><![CDATA[<p>En <a href="https://jesusfj710.github.io/to-do-app">este proyecto</a> se ha desarrollado una prueba de concepto de una aplicación de tareas básicas con las siguientes tecnologías:</p>
 <ul>
 <li>Nuxt3</li>
 <li>Pinia</li>
