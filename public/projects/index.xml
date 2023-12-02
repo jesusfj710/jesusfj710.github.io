@@ -6,7 +6,25 @@
     <description>Recent content in Projects on Jesús Fernández Jiménez - QA Engineer and Tech Enthusiast</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>💚🤍💚 -</copyright>
-    <lastBuildDate>Sun, 09 Jul 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Dec 2023 13:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serverless To-Do app with Nuxt, LocalForage and Pinia</title>
+      <link>https://jesusfj710.github.io/projects/serverless-nuxt-to-do-app/</link>
+      <pubDate>Sat, 02 Dec 2023 13:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/projects/serverless-nuxt-to-do-app/</guid>
+      <description>In this project a proof of concept of a basic task application has been developed with the following technologies:
+Nuxt3 Pinia LocalForage Bun has also been used for the management of the libraries and the execution of the development environment.</description>
+      <content:encoded><![CDATA[<p>In <a href="https://github.com/jesusfj710/todo-app">this project</a> a proof of concept of a basic task application has been developed with the following technologies:</p>
+<ul>
+<li>Nuxt3</li>
+<li>Pinia</li>
+<li>LocalForage</li>
+</ul>
+<p>Bun has also been used for the management of the libraries and the execution of the development environment.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Java Selenium Cucumber Junit framework for simple web testing</title>
       <link>https://jesusfj710.github.io/projects/java-selenium-cucumber-junit/</link>

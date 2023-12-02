@@ -42,9 +42,9 @@ El antes Cuando publiqué por primera vez la web, todo estaba contenido en un so
 <p>Lo cierto es que este flujo funciona bien pero tiene varias desventajas. No puedes tener el repositorio en privado si quieres usar Github Pages, tienes en un mismo repositorio mucho <em>codebase</em> y archivos generados, etc.</p>
 <p>Con el nuevo flujo, podrías tener el repositorio con los archivos estáticos público, y el original, que hace el <em>build</em> de la web, privado (aunque este no sea mi caso).</p>
 <h2 id="nuevo-flujo-de-trabajo">Nuevo flujo de trabajo</h2>
-<p>En este nuevo flujo vamos a tener dos depositorios, uno que es como el antiguo, donde está todo el codebase de Hugo, y otro donde simplemente estarán los estáticos de la web.</p>
+<p>En este nuevo flujo vamos a tener dos repositorios, uno que es como el antiguo, donde está todo el codebase de Hugo, y otro donde simplemente estarán los estáticos de la web.</p>
 <p>Y realmente, una vez implementados los cambios, tampoco cambia mucho el flujo. En el último paso del antiguo flujo es dónde hacemos cambios: ahora generamos la carpeta <code>public</code> en el repositorio original, pero no la publicamos. Ahora está se sube al repositorio nuevo con una Github Action. Una vez se pushea esta información al nuevo repositorio, se ejecuta la publicación del sitio web estático.</p>
-<p>Este gráfico puede explicar un poquito el flujo, aunque estoy seguro que está mal definido porque nunca llegue a aprender diagramas secuenciales 😅: 
+<p>Este gráfico puede explicar un poquito el flujo, aunque estoy seguro que está mal definido porque nunca llegué a aprender diagramas secuenciales 😅: 
  
  
  <div class="svg-fill-background" style="width: 100%; margin: 0 auto">

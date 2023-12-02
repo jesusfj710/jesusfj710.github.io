@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>💚🤍💚 -</copyright>
-    <lastBuildDate>Sun, 09 Jul 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Dec 2023 13:00:00 +0200</lastBuildDate><atom:link href="https://jesusfj710.github.io/es-es/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aplicación To-Do sin servidor con Nuxt, LocalForage y Pinia</title>
+      <link>https://jesusfj710.github.io/es-es/projects/serverless-nuxt-to-do-app/</link>
+      <pubDate>Sat, 02 Dec 2023 13:00:00 +0200</pubDate>
+      
+      <guid>https://jesusfj710.github.io/es-es/projects/serverless-nuxt-to-do-app/</guid>
+      <description>En este proyecto se ha desarrollado una prueba de concepto de una aplicación de tareas básicas con las siguientes tecnologias:
+Nuxt3 Pinia LocalForage También se ha utilizado Bun para la gestión de las librerías y la ejecución del entorno de desarrollo.</description>
+      <content:encoded><![CDATA[<p>En <a href="https://github.com/jesusfj710/todo-app">este proyecto</a> se ha desarrollado una prueba de concepto de una aplicación de tareas básicas con las siguientes tecnologias:</p>
+<ul>
+<li>Nuxt3</li>
+<li>Pinia</li>
+<li>LocalForage</li>
+</ul>
+<p>También se ha utilizado Bun para la gestión de las librerías y la ejecución del entorno de desarrollo.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Java Selenium Cucumber Junit framework para pruebas web sencillas</title>
       <link>https://jesusfj710.github.io/es-es/projects/java-selenium-cucumber-junit/</link>
